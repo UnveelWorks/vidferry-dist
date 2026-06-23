@@ -18,8 +18,6 @@
 <p align="center">
   <a href="https://tryhoverify.com/vidferry"><b>Get Vidferry</b></a>
   &nbsp;·&nbsp;
-  <a href="https://github.com/UnveelWorks/vidferry-dist/releases/latest">Download</a>
-  &nbsp;·&nbsp;
   <a href="https://github.com/UnveelWorks/vidferry-dist/discussions">Discussions</a>
 </p>
 
@@ -38,12 +36,7 @@
 
 ## Download
 
-Get the latest build from the [**Releases page**](https://github.com/UnveelWorks/vidferry-dist/releases/latest), or start at [tryhoverify.com/vidferry](https://tryhoverify.com/vidferry).
-
-| Platform | File |
-|---|---|
-| macOS (Apple Silicon + Intel) | `vidferry-<version>-macos-universal.dmg` |
-| Windows | `vidferry-<version>-windows-amd64-installer.exe` |
+Get Vidferry for macOS or Windows from [**tryhoverify.com/vidferry**](https://tryhoverify.com/vidferry).
 
 Vidferry needs a license to run. Unlock it with a **Hoverify license** you already own, or a **Vidferry key** from [tryhoverify.com/vidferry](https://tryhoverify.com/vidferry). The app updates itself when a new version ships.
 
