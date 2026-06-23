@@ -1,0 +1,17 @@
+name: Feature request
+description: Suggest an idea, or a site you would like supported
+title: "[Idea]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like?
+      description: Describe the feature, or the site you would like Vidferry to support.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why would it help?
+      description: What are you trying to do?

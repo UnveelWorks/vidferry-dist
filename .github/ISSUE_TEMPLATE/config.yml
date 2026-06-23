@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and ideas
+    url: https://github.com/UnveelWorks/vidferry-dist/discussions
+    about: Ask a question or share an idea in Discussions.
+  - name: Get Vidferry or a license
+    url: https://tryhoverify.com/vidferry
+    about: Buy a Vidferry key or use a Hoverify license.

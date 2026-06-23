@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="tangelo" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fc8a3d"/>
+      <stop offset="1" stop-color="#d75e12"/>
+    </linearGradient>
+    <radialGradient id="halo" cx=".5" cy="-.15" r="1.1">
+      <stop offset="0" stop-color="#f37021" stop-opacity=".18"/>
+      <stop offset=".6" stop-color="#f37021" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="drop" x="-30%" y="-30%" width="160%" height="170%">
+      <feDropShadow dx="0" dy="7" stdDeviation="7" flood-color="#784e1e" flood-opacity=".35"/>
+    </filter>
+  </defs>
+  <rect x="8" y="8" width="240" height="240" rx="58" fill="#fffdf8"/>
+  <rect x="8" y="8" width="240" height="240" rx="58" fill="url(#halo)"/>
+  <rect x="9" y="9" width="238" height="238" rx="57" fill="none" stroke="rgba(38,29,21,.14)" stroke-width="2"/>
+  <g transform="rotate(-9 128 118)" filter="url(#drop)">
+    <path d="M106,58 h44 v54 h36 L128,176 L70,112 h36 z" fill="url(#tangelo)" stroke="url(#tangelo)" stroke-width="16" stroke-linejoin="round"/>
+  </g>
+  <path d="M70,198 Q128,228 186,198" stroke="#26201a" stroke-width="18" stroke-linecap="round" fill="none"/>
+</svg>
